@@ -1,0 +1,15 @@
+{
+  "contracts": [
+    {
+      "name": "Hello",
+      "parties": "N/A",
+      "payment": "N/A",
+      "deadlines": "N/A",
+      "services": "N/A",
+      "duration": "N/A",
+      "termination": "N/A",
+      "ownership": "N/A",
+      "summary": "N/A"
+    }
+  ]
+}
