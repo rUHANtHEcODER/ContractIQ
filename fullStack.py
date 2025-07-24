@@ -8,7 +8,7 @@ import pycountry
 
 # Set page layout and API key
 st.set_page_config(page_title="ContractIQ", layout="wide")
-APIkey = "AIzaSyA99rXwMfKPSHArGV2WjaOvmhXiYAmBo5w"  # Replace with actual API key
+APIkey = ""  # Replace with actual API key
 
 # Title
 st.title("ContractIQ")
