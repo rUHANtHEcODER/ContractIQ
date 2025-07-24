@@ -9,7 +9,7 @@ with pdfplumber.open("SERVICE AGREEMENT.pdf") as pdf:
         full_text += page.extract_text() + "\n"
 
 # Step 2: Configure Gemini
-APIkey = "AIzaSyA99rXwMfKPSHArGV2WjaOvmhXiYAmBo5w"
+APIkey = ""
 genai.configure(api_key=APIkey)
 model = genai.GenerativeModel('gemini-2.5-flash')
 
